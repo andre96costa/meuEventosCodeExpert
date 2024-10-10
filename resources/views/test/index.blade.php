@@ -1,0 +1,1 @@
+<h3>Estou na view INDEX dentro da pasta teste.</h3>
